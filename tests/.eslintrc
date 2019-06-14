@@ -1,9 +1,5 @@
 {
-  env: {
-    mocha: true
-  },
-  globals: {
-    browser: true,
-    $: true
+  "env": {
+    "jest": true
   }
 }
